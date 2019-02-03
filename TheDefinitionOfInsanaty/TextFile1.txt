@@ -1,0 +1,7 @@
+The Basic Syntax and Functions,thenewboston,1500,9,34,100,https://www.youtube.com/watch?v=16yji8At2UI&list=PLF541C2C1F671AEF6&index=2
+Declaration Statements and Variables,thenewboston,658,4,6,101,https://www.youtube.com/watch?v=WGpYDO-xkCA&list=PLF541C2C1F671AEF6&index=3
+cin and User Input,thenewboston,674,5,55,103,https://www.youtube.com/watch?v=DgN8r8V70uw&list=PLF541C2C1F671AEF6&index=5
+Beginning Functions,thenewboston,794,5,56,104,https://www.youtube.com/watch?v=GGYAs-z5l1c&list=PLF541C2C1F671AEF6&index=6
+Introducere in programare,Videotutorial.ro,797,15,52,105,https://www.youtube.com/watch?v=JjY9U9lu37I
+Introducere + Visual Studio,Gleesik,2400,14,6,106,https://www.youtube.com/watch?v=lAvIuQIhbOQ
+Structura unui program,Gleesik,1300,14,23,107,https://www.youtube.com/watch?v=nem8KXgNkI8

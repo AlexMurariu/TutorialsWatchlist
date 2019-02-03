@@ -1,0 +1,32 @@
+#pragma once
+#include <exception>
+#include <string>
+
+using namespace std;
+
+class FileException : public exception
+{
+protected:
+	string message;
+
+public:
+	FileException(const string& msg);
+	virtual const char* what();
+};
+
+class RepositoryException : public exception
+{
+protected:
+	string message;
+
+public:
+	RepositoryException();
+	RepositoryException(const string& msg);
+	virtual ~RepositoryException() {}
+	virtual const char* what();
+};
+
+class DuplicateTutorialException : public RepositoryException
+{
+	const char* what();
+};
